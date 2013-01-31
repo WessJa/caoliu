@@ -2,8 +2,8 @@ caoliu
 ======
 
 Usage
----
-####Install####
+-----
+#### Install ####
 
 ```
 pip install caoliu
@@ -16,9 +16,9 @@ easy_install caoliu
 
 ```
 
-then
+#### Then ####
 
-`
+```
 import caoliu
 print caoliu.url
-`
+```
