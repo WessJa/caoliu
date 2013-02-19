@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 #encoding:utf-8
 
+import webbrowser as wb
+
 url = 'http://baidu.com'
 
 
 def main():
-    print url
+    wb.open(url)
 
