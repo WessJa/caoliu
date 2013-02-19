@@ -3,3 +3,7 @@
 
 url = 'http://baidu.com'
 
+
+def main():
+    print url
+
