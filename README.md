@@ -16,9 +16,11 @@ easy_install caoliu
 
 ```
 
-#### Then ####
+#### Then, run command ####
 
 ```
-import caoliu
-print caoliu.url
+caoliu
 ```
+
+your default web browser will raise, and open YOUR FAVOURITE SITE.
+
